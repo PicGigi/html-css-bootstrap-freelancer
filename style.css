@@ -25,6 +25,7 @@
 
 .card{
     height: 200px;
+    background-color: salmon;
 }
 
 .prova{
@@ -55,4 +56,8 @@ textarea{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.green_hover:hover{
+    color: #1abc9c !important;
 }
